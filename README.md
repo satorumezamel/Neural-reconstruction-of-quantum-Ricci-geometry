@@ -33,6 +33,7 @@ IDPC_Reproduction/
 
 Raw EEG dataset:
 
+**Raw EEG Data (26 Sessions) for Reproduction of Neural–Quantum Structural Analysis in IDPC**
 https://doi.org/10.5281/zenodo.19624924
 
 To reproduce all results:
