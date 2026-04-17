@@ -15,11 +15,6 @@ Run the Binder demo:
 https://hub.bids.mybinder.org/user/satoru-siel-idpc_reproduction-tsaa9hjd/doc/workspaces/auto-l/tree/IDPC_Repro_Demo.ipynb
 
 ## Repository Structure
-
-## Repository Structure
-
-## Repository Structure
-
 ```
 IDPC_Reproduction/
 
@@ -33,6 +28,7 @@ IDPC_Reproduction/
 
 ├── IDPC_Reproduction_ricci/     # CSV files (demo)
 ```
+
 ## Full Reproduction
 
 Raw EEG dataset:
