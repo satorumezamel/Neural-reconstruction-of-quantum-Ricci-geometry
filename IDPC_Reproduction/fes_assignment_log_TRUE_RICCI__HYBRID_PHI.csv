@@ -1,0 +1,6 @@
+fes_phase,assigned_cluster,candidate_rank_used,score_used,all_candidates_in_order,selection_status
+CoCreation,3,1,0.30295843560068964,"3,1,2,4,0",selected
+Surprise,2,1,0.8975697266593942,"2,3,4,0,1",selected
+SelfGrowth,1,3,-0.34327355033385565,"3,2,1,4,0",selected
+Challenge,0,1,1.0425229796563553,"0,1,3,2,4",selected
+Activation,4,3,0.3903492725300322,"2,1,4,0,3",selected
