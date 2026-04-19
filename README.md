@@ -49,3 +49,4 @@ To reproduce all results:
 
 - CSV files included in this repository are for demo execution
 - Full reproduction requires the raw EEG dataset
+- Quantum Measurement.ipynb is required only when reproducing the quantum experiment
