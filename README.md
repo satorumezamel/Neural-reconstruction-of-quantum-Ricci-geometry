@@ -1,6 +1,6 @@
 # IDPC_Reproduction
 
-Reproduction repository for the paper:
+Reproduction repository(https://github.com/SATORU-SIEL/IDPC_Reproduction/) for the paper:
 
 **Intersection-Defined Phase Coordinates Reveal Localized Selection and a Non-Internal Observational Structure**  
 https://doi.org/10.5281/zenodo.19697852
